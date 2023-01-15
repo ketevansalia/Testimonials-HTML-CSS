@@ -1,0 +1,11 @@
+@media (max-width: 34em) {
+  .section-testimonials {
+    margin: 2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+  }
+  .testimonials {
+    padding: 2rem;
+  }
+}
